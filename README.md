@@ -81,4 +81,6 @@ python autoclicker.py
 
 ## License
 
-MIT License - Feel free to use and modify!
+This project is licensed under the [GPL-3.0](LICENSE.md)
+GNU General Public License - see the [LICENSE.md](LICENSE.md) file for
+details.
