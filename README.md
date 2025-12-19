@@ -3,7 +3,7 @@
 A feature-rich Python autoclicker with a modern dark-themed GUI and multiple clicking modes.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-GPLv3-blue)
 
 ## Features
 
