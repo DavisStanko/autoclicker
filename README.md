@@ -1,4 +1,4 @@
-# ⚡ AutoClicker Pro
+# ⚡ AutoClicker
 
 A feature-rich Python autoclicker with a modern dark-themed GUI and multiple clicking modes.
 
